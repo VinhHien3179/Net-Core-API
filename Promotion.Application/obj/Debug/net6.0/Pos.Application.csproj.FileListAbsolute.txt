@@ -1,0 +1,15 @@
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Pos.Application.csproj.AssemblyReference.cache
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Pos.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Pos.Application.AssemblyInfoInputs.cache
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Pos.Application.AssemblyInfo.cs
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Pos.Application.csproj.CoreCompileInputs.cache
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Pos.Application.deps.json
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Pos.Application.dll
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Pos.Application.pdb
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Pos.Model.dll
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Pos.Model.pdb
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Pos.Application.csproj.CopyComplete
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Pos.Application.dll
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\refint\Pos.Application.dll
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Pos.Application.pdb
+F:\Work\EmptySource\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\ref\Pos.Application.dll

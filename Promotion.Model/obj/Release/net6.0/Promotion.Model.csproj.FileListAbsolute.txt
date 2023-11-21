@@ -1,0 +1,12 @@
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Model\bin\Release\net6.0\Promotion.Model.deps.json
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Model\bin\Release\net6.0\Promotion.Model.dll
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Model\bin\Release\net6.0\Promotion.Model.pdb
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Model\obj\Release\net6.0\Promotion.Model.csproj.AssemblyReference.cache
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Model\obj\Release\net6.0\Promotion.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Model\obj\Release\net6.0\Promotion.Model.AssemblyInfoInputs.cache
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Model\obj\Release\net6.0\Promotion.Model.AssemblyInfo.cs
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Model\obj\Release\net6.0\Promotion.Model.csproj.CoreCompileInputs.cache
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Model\obj\Release\net6.0\Promotion.Model.dll
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Model\obj\Release\net6.0\refint\Promotion.Model.dll
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Model\obj\Release\net6.0\Promotion.Model.pdb
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Model\obj\Release\net6.0\ref\Promotion.Model.dll

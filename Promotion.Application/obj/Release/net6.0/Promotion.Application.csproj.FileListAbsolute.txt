@@ -1,0 +1,15 @@
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\bin\Release\net6.0\Promotion.Application.deps.json
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\bin\Release\net6.0\Promotion.Application.dll
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\bin\Release\net6.0\Promotion.Application.pdb
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\bin\Release\net6.0\Promotion.Model.dll
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\bin\Release\net6.0\Promotion.Model.pdb
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Release\net6.0\Promotion.Application.csproj.AssemblyReference.cache
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Release\net6.0\Promotion.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Release\net6.0\Promotion.Application.AssemblyInfoInputs.cache
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Release\net6.0\Promotion.Application.AssemblyInfo.cs
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Release\net6.0\Promotion.Application.csproj.CoreCompileInputs.cache
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Release\net6.0\Promotion.Application.csproj.CopyComplete
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Release\net6.0\Promotion.Application.dll
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Release\net6.0\refint\Promotion.Application.dll
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Release\net6.0\Promotion.Application.pdb
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Release\net6.0\ref\Promotion.Application.dll

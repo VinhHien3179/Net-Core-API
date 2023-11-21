@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Work\\DuDu_Interface\\Interface\\APIPromotion\\Promotion_API\\Promotion_API\\wwwroot\\FilesUpload\\DsNVVeVNTT.xlsx",
+      "PackagePath": "staticwebassets\\FilesUpload\\DsNVVeVNTT.xlsx"
+    },
+    {
+      "Id": "F:\\Work\\DuDu_Interface\\Interface\\APIPromotion\\Promotion_API\\Promotion_API\\wwwroot\\FilesUpload\\Hop dong draft TDC mobile.docx",
+      "PackagePath": "staticwebassets\\FilesUpload\\Hop dong draft TDC mobile.docx"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-windows\\staticwebassets\\msbuild.Promotion_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-windows\\staticwebassets\\msbuild.build.Promotion_API.props",
+      "PackagePath": "build\\Promotion_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-windows\\staticwebassets\\msbuild.buildMultiTargeting.Promotion_API.props",
+      "PackagePath": "buildMultiTargeting\\Promotion_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-windows\\staticwebassets\\msbuild.buildTransitive.Promotion_API.props",
+      "PackagePath": "buildTransitive\\Promotion_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

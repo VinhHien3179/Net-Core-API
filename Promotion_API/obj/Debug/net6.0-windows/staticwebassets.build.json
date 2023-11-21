@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "TDxNKUsjO5On2H8IGM36laTHoPC7nzr7wiHA0WFthhg=",
+  "Source": "PosAPI",
+  "BasePath": "_content/PosAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PosAPI\\wwwroot",
+      "Source": "PosAPI",
+      "ContentRoot": "F:\\Work\\EmptySource\\APIPromotion\\Promotion_API\\Promotion_API\\wwwroot\\",
+      "BasePath": "_content/PosAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

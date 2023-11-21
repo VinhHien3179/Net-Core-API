@@ -1,0 +1,30 @@
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Promotion.Application.deps.json
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Promotion.Application.dll
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Promotion.Application.pdb
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Promotion.Model.dll
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Promotion.Model.pdb
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.csproj.AssemblyReference.cache
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.AssemblyInfoInputs.cache
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.AssemblyInfo.cs
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.csproj.CoreCompileInputs.cache
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.csproj.CopyComplete
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.dll
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\refint\Promotion.Application.dll
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.pdb
+C:\MyProject\Nhất Việt Company\DuDuForSalon\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\ref\Promotion.Application.dll
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Promotion.Application.deps.json
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Promotion.Application.dll
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Promotion.Application.pdb
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Promotion.Model.dll
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\bin\Debug\net6.0\Promotion.Model.pdb
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.csproj.AssemblyReference.cache
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.AssemblyInfoInputs.cache
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.AssemblyInfo.cs
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.csproj.CoreCompileInputs.cache
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.csproj.CopyComplete
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.dll
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\refint\Promotion.Application.dll
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\Promotion.Application.pdb
+F:\Work\DuDu_Interface\Interface\APIPromotion\Promotion_API\Promotion.Application\obj\Debug\net6.0\ref\Promotion.Application.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Promotion_API.props" />
+</Project>
